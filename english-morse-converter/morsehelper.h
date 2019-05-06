@@ -13,7 +13,6 @@ class morsehelper{
     morsehelper();
     void convertEnglishToMorse(std::string &,std::string &);
     void  convertMorseToEnglish(std::string &,std::string &);
-    getWord
 
     ~morsehelper();
 
